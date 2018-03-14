@@ -1,7 +1,6 @@
 # Dev Landing Page
 
 Minimal landing page for developers.
-
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
